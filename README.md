@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yazeed</h1>
+
 <h3 align="center">💻 Computer Science Student @ SEU</h3>
+
 <h3 align="center">💻 Aspiring Software Engineer</h3>
+
+
+
+
 
 
 <h3 align="center">Languages and Tools:</h3>
